@@ -7,3 +7,10 @@ Hiện nay có rất nhiều nền tảng thương mại điện tử được t
     <li>Đưa ra cảnh báo cho khách hàng khi giá cả không nằm trong mức an toàn về chất lượng sản phẩm</li>
     <li>Đánh giá đưa ra các hướng phát triển đối với các doanh nghiệp chuẩn bị tham gia vào thương mại điện tử</li>
 </ul>
+<h2>các tools được sử dụng </h2>
+<ul>
+    <li>Thư viện sử dụng : Python3,Java,scikit-learn</li>
+    <li>Database : MongoDB,SnowFlake,PostgreSQL</li>
+    <li>ETL : Spark , DBT</li>
+    <li>Visualation : Power BI</li>
+</ul>
